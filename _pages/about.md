@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <strong>MSE Robotics</strong> @ <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a> • <strong>Previously:</strong> <a href="https://www.modalai.com/" target="_blank">ModalAI</a> / <a href="https://iitgn.ac.in/" target="_blank">IIT Gandhinagar</a>
+
 
 profile:
   align: right
-  image: prof_pic_color.png
+  image: crop.jpg
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
@@ -26,9 +27,40 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+ 
+learn ⇄ design ⇆ build
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m **Dhyey Shah**, a second-year **Master’s student in Robotics (MSE)** at the 
+<a href="[#](https://www.seas.upenn.edu/academics/programs/robotics/)" target="_blank">University of Pennsylvania</a>, where I am advised by 
+<a href="[#](https://nbfigueroa.github.io/)" target="_blank">Prof. Nadia Figueroa</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am broadly interested in building **end-to-end robotic systems**, with a focus on
+**novel control frameworks for human-centric robotic environments**. More recently,
+I have been fascinated by **reinforcement learning–based control strategies** for
+applications such as **robotic manipulation** and **aerial robotics**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At the <a href="[#](https://www.grasp.upenn.edu/)" target="_blank">GRASP Lab</a>, I currently work with the 
+<a href="[#](https://nbfigueroa.github.io/)" target="_blank">Figueroa Robotics Lab</a> on the development of an 
+**upper-limb exoskeleton** for assistive and resistive training in collaborative
+human–robot environments. Previously, I worked with the 
+<a href="[#](https://kodlab.seas.upenn.edu/)" target="_blank">Kod*Lab</a> on **template-based control methods for legged robots**.
+You can find more details about my research and publications on my 
+<a href="/research/">Research</a> page.
+
+Beyond research, I have gained industry experience as a **Software Development Intern**
+at <a href="[#](https://www.modalai.com/)" target="_blank">ModalAI</a>, where I worked on **real-time image processing
+and vision-based control pipelines for UAVs**. I have also served as the **SLAM lead**
+for a social indoor robot developed for the second round of the 
+<a href="[#](https://www.sick.com/us/en/sick-10k-challenge/w/10K-Challenge)" target="_blank">SICK $10K LiDAR Challenge</a>.
+A complete overview of my technical and course projects can be found on my
+<a href="/projects/">Projects</a> page.
+
+Outside the lab, I enjoy spending time around people as much as robots. I actively
+play and follow sports such as **cricket, tennis, badminton, and cycling**, and have
+recently been exploring **rock climbing**. I also enjoy hiking with friends, painting,
+reading, and writing—often journaling or expressing thoughts through poetry.
+
+I have a long-standing curiosity about **psychology**, **philosophy**, and
+**neuroscience**, particularly in understanding human behavior and cognition.
+Growing up in **Vadodara, Gujarat**, I fluently speak **English, Hindi, and Gujarati**,
+and am currently learning **Spanish**.
