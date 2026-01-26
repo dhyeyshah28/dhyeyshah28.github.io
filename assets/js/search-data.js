@@ -481,8 +481,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-comparative-control-study-for-elbow-exoskeleton-under-time-varying-human-dynamics",
-          title: 'Comparative Control Study for Elbow Exoskeleton Under Time-Varying Human Dynamics',
+            },},{id: "projects-in-progress-comparative-control-study-for-elbow-exoskeleton-under-time-varying-human-dynamics",
+          title: 'In Progress* Comparative Control Study for Elbow Exoskeleton Under Time-Varying Human Dynamics',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
