@@ -2,7 +2,7 @@
 layout: page
 title: Smart Shoe for Wireless Gait Monitoring using Differential Pressure Sensors 
 description: 
-img: assets/img/exo.jpeg
+img: assets/img/11.png
 importance: 4
 category: research projects
 related_publications: false

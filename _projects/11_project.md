@@ -2,7 +2,7 @@
 layout: page
 title: Vision based Terrain Classification for a Cable-Driven Ankle Exoskeleton
 description: 
-img: assets/img/exo.jpeg
+img: assets/img/12.png
 importance: 3
 category: research projects
 related_publications: false

@@ -2,7 +2,7 @@
 layout: page
 title: Template-Guided Control for Legged Robots via Kinematic Anchoring 
 description: 
-img: assets/img/exo.jpeg
+img: assets/img/14.png
 importance: 1
 category: research projects
 related_publications: false

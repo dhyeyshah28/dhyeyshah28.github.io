@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning Driven-Wearable Sensor System for Foot Landing Classification in Badminton
 description: 
-img: assets/img/exo.jpeg
+img: assets/img/10.png
 importance: 2
 category: research projects
 related_publications: false

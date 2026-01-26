@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Comparative Control Study for Elbow Exoskeleton Under Time-Varying Human Dynamics 
+title: In Progress* Comparative Control Study for Elbow Exoskeleton Under Time-Varying Human Dynamics 
 description: 
-img: assets/img/exo.jpeg
+img: assets/img/13.png
 importance: 0
 category: research projects
 related_publications: false
