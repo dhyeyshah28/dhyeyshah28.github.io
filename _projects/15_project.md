@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Multi-View 3D Reconstruction using SfM and Bundle Adjustment
+title: In Progress* Social Library Robot for Automated Shelf Reading and Inventory Management
 description: 
-img: assets/img/6.png
-importance: 5
+img: assets/img/9.png
+importance: 7
 category: industry and course projects
 related_publications: false
 ---

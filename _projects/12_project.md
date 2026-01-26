@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Multi-View 3D Reconstruction using SfM and Bundle Adjustment
+title: Smart Shoe for Wireless Gait Monitoring using Differential Pressure Sensors 
 description: 
-img: assets/img/6.png
-importance: 5
-category: industry and course projects
+img: assets/img/exo.jpeg
+importance: 4
+category: research projects
 related_publications: false
 ---
 

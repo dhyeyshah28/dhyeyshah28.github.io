@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Multi-View 3D Reconstruction using SfM and Bundle Adjustment
+title: Vision based Terrain Classification for a Cable-Driven Ankle Exoskeleton
 description: 
-img: assets/img/6.png
-importance: 5
-category: industry and course projects
+img: assets/img/exo.jpeg
+importance: 3
+category: research projects
 related_publications: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Pick and Place Execution using Franka Emika Panda
+title: Pick, Place, Stack Execution for Static and Dynamic objects using Franka Emika Panda
 description: 
-img: assets/img/itr1.png
+img: assets/img/5.png
 importance: 3
 category: industry and course projects
 related_publications: false

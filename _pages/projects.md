@@ -9,6 +9,7 @@ display_categories: [industry and course projects, hobby projects]
 horizontal: false
 ---
 
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

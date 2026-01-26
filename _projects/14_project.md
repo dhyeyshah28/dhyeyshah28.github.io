@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Multi-View 3D Reconstruction using SfM and Bundle Adjustment
+title: In Progress* Real-Time MPC Planning and Control for Autonomous F1/10 Racing
 description: 
-img: assets/img/6.png
-importance: 5
+img: assets/img/8.png
+importance: 8
 category: industry and course projects
 related_publications: false
 ---

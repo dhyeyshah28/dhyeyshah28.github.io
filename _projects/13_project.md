@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Multi-View 3D Reconstruction using SfM and Bundle Adjustment
+title: Template-Guided Control for Legged Robots via Kinematic Anchoring 
 description: 
-img: assets/img/6.png
-importance: 5
-category: industry and course projects
+img: assets/img/exo.jpeg
+importance: 1
+category: 
 related_publications: false
 ---
 

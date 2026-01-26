@@ -2,7 +2,7 @@
 layout: page
 title: GPS-Denied Autonomy via Visual-Inertial Odometry for UAVs
 description: 
-img: assets/img/ar1.png
+img: assets/img/3.png
 importance: 2
 category: industry and course projects
 related_publications: false

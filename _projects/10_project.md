@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Multi-View 3D Reconstruction using SfM and Bundle Adjustment
+title: Machine Learning Driven-Wearable Sensor System for Foot Landing Classification in Badminton
 description: 
-img: assets/img/6.png
-importance: 5
-category: industry and course projects
+img: assets/img/exo.jpeg
+importance: 2
+category: research projects
 related_publications: false
 ---
 

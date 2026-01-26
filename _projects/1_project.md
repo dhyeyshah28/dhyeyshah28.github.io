@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Deep RL based Autonomous Drone Racing
+title: End-to-End Autonomous Drone Racing Using Deep Reinforcement Learning
 description: 
-img: assets/img/rl.png
+img: assets/img/1.png
 importance: 0
 category: industry and course projects
 related_publications: false

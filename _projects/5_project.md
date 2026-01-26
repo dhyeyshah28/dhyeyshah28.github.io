@@ -2,7 +2,7 @@
 layout: page
 title: Autonomous Navigation and Target Engagement Robot Car
 description: 
-img: assets/img/mech.png
+img: assets/img/4.png
 importance: 4
 category: industry and course projects
 related_publications: false

@@ -2,7 +2,7 @@
 layout: page
 title: VAE-Augmented Imitation Learning for Scalable Robot Manipulation
 description: 
-img: assets/img/lir.png
+img: assets/img/2.png
 importance: 1
 category: industry and course projects
 related_publications: false
