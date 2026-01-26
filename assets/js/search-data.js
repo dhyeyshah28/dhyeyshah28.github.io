@@ -416,8 +416,38 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-deep-rl-based-autonomous-drone-racing",
-          title: 'Deep RL based Autonomous Drone Racing',
+          section: "News",},{id: "projects-machine-learning-driven-wearable-sensor-system-for-foot-landing-classification-in-badminton",
+          title: 'Machine Learning Driven-Wearable Sensor System for Foot Landing Classification in Badminton',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-vision-based-terrain-classification-for-a-cable-driven-ankle-exoskeleton",
+          title: 'Vision based Terrain Classification for a Cable-Driven Ankle Exoskeleton',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
+            },},{id: "projects-smart-shoe-for-wireless-gait-monitoring-using-differential-pressure-sensors",
+          title: 'Smart Shoe for Wireless Gait Monitoring using Differential Pressure Sensors',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
+            },},{id: "projects-template-guided-control-for-legged-robots-via-kinematic-anchoring",
+          title: 'Template-Guided Control for Legged Robots via Kinematic Anchoring',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project/";
+            },},{id: "projects-in-progress-real-time-mpc-planning-and-control-for-autonomous-f1-10-racing",
+          title: 'In Progress* Real-Time MPC Planning and Control for Autonomous F1/10 Racing',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project/";
+            },},{id: "projects-in-progress-social-library-robot-for-automated-shelf-reading-and-inventory-management",
+          title: 'In Progress* Social Library Robot for Automated Shelf Reading and Inventory Management',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/15_project/";
+            },},{id: "projects-end-to-end-autonomous-drone-racing-using-deep-reinforcement-learning",
+          title: 'End-to-End Autonomous Drone Racing Using Deep Reinforcement Learning',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -431,8 +461,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-pick-and-place-execution-using-franka-emika-panda",
-          title: 'Pick and Place Execution using Franka Emika Panda',
+            },},{id: "projects-pick-place-stack-execution-for-static-and-dynamic-objects-using-franka-emika-panda",
+          title: 'Pick, Place, Stack Execution for Static and Dynamic objects using Franka Emika Panda...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
@@ -441,24 +471,24 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-multi-view-3d-reconstruction-using-sfm-and-bundle-adjustment",
+          title: 'Multi-View 3D Reconstruction using SfM and Bundle Adjustment',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-ecog-based-regression-for-multi-finger-flexion-decoding",
+          title: 'ECoG-Based Regression for Multi-Finger Flexion Decoding',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-comparative-control-study-for-elbow-exoskeleton-under-time-varying-human-dynamics",
+          title: 'Comparative Control Study for Elbow Exoskeleton Under Time-Varying Human Dynamics',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-template-guided-control-for-legged-robots-via-kinematic-anchoring",
+          title: 'Template-Guided Control for Legged Robots via Kinematic Anchoring',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
