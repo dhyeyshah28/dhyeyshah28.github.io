@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dhyeyshah28.github.io/sitemap.xml
+Sitemap: https://dhyeyshah.com/sitemap.xml
