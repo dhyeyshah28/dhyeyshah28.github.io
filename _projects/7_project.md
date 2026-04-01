@@ -6,6 +6,7 @@ img: assets/img/7.png
 importance: 6
 category: industry and course projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/ECoG-Based_Regression_for_Multi-Finger_Flexion_Decoding
 ---
 
 Designed and built a mobile robot to compete in a strategic game, integrating autonomous navigation using the HTC Vive lighthouse, wall-following

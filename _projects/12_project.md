@@ -6,6 +6,7 @@ img: assets/img/11.png
 importance: 4
 category: research projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/Smart_Shoe_for_Real-Time_Ground_Reaction_Force_Estimation_using_Edge-Deployed_MLP
 ---
 
 Designed and built a mobile robot to compete in a strategic game, integrating autonomous navigation using the HTC Vive lighthouse, wall-following

@@ -6,6 +6,7 @@ img: assets/img/1.png
 importance: 0
 category: industry and course projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/Autonomous-Drone-Racing-Using-Deep-Reinforcement-Learning
 ---
 
 Implemented a PPO-based reinforcement learning pipeline for autonomous quadrotor racing, emphasizing end-to-end policy learning in Isaac Sim while also testing it on the Crazyflie hardware system. Formulated physics-informed reward functions and observation encodings to balance stability with aggressive maneuvering through gate sequences, while leveraging curriculum learning and domain randomization in Isaac Lab for policy robustness.

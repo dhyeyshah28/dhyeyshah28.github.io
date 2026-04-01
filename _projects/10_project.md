@@ -6,6 +6,7 @@ img: assets/img/10.png
 importance: 2
 category: research projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/Machine_Learning_Driven-Wearable_Sensor_System_for_Foot_Landing_Classification_in_Badminton
 ---
 
 Designed and built a mobile robot to compete in a strategic game, integrating autonomous navigation using the HTC Vive lighthouse, wall-following

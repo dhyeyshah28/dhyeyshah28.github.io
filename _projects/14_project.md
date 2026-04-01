@@ -6,6 +6,7 @@ img: assets/img/8.png
 importance: 8
 category: industry and course projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/GPS-Denied_Autonomy_via_VIO_for_UAVs
 ---
 
 Designed and built a mobile robot to compete in a strategic game, integrating autonomous navigation using the HTC Vive lighthouse, wall-following

@@ -2,10 +2,11 @@
 layout: page
 title: In Progress* Comparative Control Study for Elbow Exoskeleton Under Time-Varying Human Dynamics 
 description: 
-img: assets/img/13.png
+img: assets/img/exo.png
 importance: 0
 category: research projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/Comparative_Control_Study_for_Elbow_Exoskeleton_Under_Time-Varying_Human_Dynamics
 ---
 
 Designed and built a mobile robot to compete in a strategic game, integrating autonomous navigation using the HTC Vive lighthouse, wall-following

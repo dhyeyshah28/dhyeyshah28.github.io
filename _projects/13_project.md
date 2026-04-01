@@ -6,6 +6,7 @@ img: assets/img/exo.jpeg
 importance: 1
 category: 
 related_publications: false
+redirect: https://github.com/dhyeyshah28/Template-Guided_Control_for_Legged_Robots_via_Kinematic_Anchoring
 ---
 
 Designed and built a mobile robot to compete in a strategic game, integrating autonomous navigation using the HTC Vive lighthouse, wall-following

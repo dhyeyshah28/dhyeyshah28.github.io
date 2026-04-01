@@ -5,11 +5,13 @@ permalink: /hobbies/
 description: My Hobbies - Dhyey Shah.
 nav: true
 nav_order: 5
-display_categories: [work, fun]
+display_categories: []
 horizontal: false
 ---
 
 <!-- pages/projects.md -->
+Beyond my academic and research activities, I really enjoy engaging in a range of activities that keep me both physically active and creatively inspired. I am an avid sports enthusiast and regularly play and follow cricket, tennis, badminton, cycling, and have recently developed a strong interest in rock climbing. I also like spending time outdoors, especially going on hikes with friends. On the creative side, I like painting and writing often journaling or expressing my thoughts through poetry. Additionally, I have a deep curiosity for subjects such as psychology, philosophy, and neuroscience, which I explore through reading in my free time.
+
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

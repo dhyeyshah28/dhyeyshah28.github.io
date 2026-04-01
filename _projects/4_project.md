@@ -6,6 +6,7 @@ img: assets/img/5.png
 importance: 3
 category: industry and course projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/Pick-Place-Stack_Franka-Emika
 ---
 
 Developed a motion planning algorithm for a 7-DOF Franka Emika robotic arm using ROS and Gazebo. Integrated Geometric Inverse Kinematics and

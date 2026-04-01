@@ -6,6 +6,7 @@ img: assets/img/4.png
 importance: 4
 category: industry and course projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/Autonomous_Navigation_and_Target_Engagement_Robot_Car
 ---
 
 Designed and built a mobile robot to compete in a strategic game, integrating autonomous navigation using the HTC Vive lighthouse, wall-following

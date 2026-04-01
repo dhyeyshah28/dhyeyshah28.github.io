@@ -6,6 +6,7 @@ img: assets/img/6.png
 importance: 5
 category: industry and course projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/Multi-View_Geometry_and_NeRF_based_3D_Reconstruction
 ---
 
 Designed and built a mobile robot to compete in a strategic game, integrating autonomous navigation using the HTC Vive lighthouse, wall-following

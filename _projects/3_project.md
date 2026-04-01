@@ -2,10 +2,11 @@
 layout: page
 title: GPS-Denied Autonomy via Visual-Inertial Odometry for UAVs
 description: 
-img: assets/img/3.png
+img: assets/img/2.png
 importance: 2
 category: industry and course projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/GPS-Denied_Autonomy_via_VIO_for_UAVs
 ---
 
 Developed an autonomy stack for the CrazyFlie 2.0 by integrating VIO based state estimation with trajectory planning and SE(3) control. Utilized

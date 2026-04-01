@@ -6,6 +6,7 @@ img: assets/img/12.png
 importance: 3
 category: research projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/Vision-based_Terrain_Classification_for_a_Cable-Driven_Ankle_Exoskeleton
 ---
 
 Designed and built a mobile robot to compete in a strategic game, integrating autonomous navigation using the HTC Vive lighthouse, wall-following

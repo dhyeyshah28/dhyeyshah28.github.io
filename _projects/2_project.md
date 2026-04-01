@@ -2,10 +2,11 @@
 layout: page
 title: VAE-Augmented Imitation Learning for Scalable Robot Manipulation
 description: 
-img: assets/img/2.png
+img: assets/img/3.png
 importance: 1
 category: industry and course projects
 related_publications: false
+redirect: https://github.com/dhyeyshah28/VAE-Augmented_Imitation_Learning_for_Scalable_Robot_Manipulation
 ---
 
 Used latent trajectory representations to improve Behavioral Cloning for robotic manipulation tasks in a kitchen environment, by training a Variational
