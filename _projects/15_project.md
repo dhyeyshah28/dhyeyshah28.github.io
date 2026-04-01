@@ -2,7 +2,7 @@
 layout: page
 title: In Progress* Social Library Robot for Automated Shelf Reading and Inventory Management
 description: 
-img: assets/img/9.png
+img: assets/img/8.png
 importance: 7
 category: industry and course projects
 related_publications: false
