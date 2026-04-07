@@ -1,12 +1,12 @@
 ---
 layout: page
-title: In Progress* Social Library Robot for Automated Shelf Reading and Inventory Management
+title: LiBOT- Social Robot for Automated Shelf Reading and Inventory Management
 description: 
-img: assets/img/8.png
-importance: 7
+img: assets/img/88.png
+importance: 0
 category: industry and course projects
 related_publications: false
-redirect: https://github.com/dhyeyshah28/GPS-Denied_Autonomy_via_VIO_for_UAVs
+redirect: https://github.com/dhyeyshah28/
 ---
 
 Designed and built a mobile robot to compete in a strategic game, integrating autonomous navigation using the HTC Vive lighthouse, wall-following

@@ -2,7 +2,7 @@
 layout: page
 title: In Progress* Real-Time MPC Planning and Control for Autonomous F1/10 Racing
 description: 
-img: assets/img/9.png
+img: assets/img/99.png
 importance: 8
 category: industry and course projects
 related_publications: false
