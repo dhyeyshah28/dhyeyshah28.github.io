@@ -441,8 +441,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/14_project/";
-            },},{id: "projects-in-progress-social-library-robot-for-automated-shelf-reading-and-inventory-management",
-          title: 'In Progress* Social Library Robot for Automated Shelf Reading and Inventory Management',
+            },},{id: "projects-libot-social-robot-for-automated-shelf-reading-and-inventory-management",
+          title: 'LiBOT- Social Robot for Automated Shelf Reading and Inventory Management',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/15_project/";
